@@ -16,7 +16,7 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Hello GitHub</h1>
+          <h1>Hello GitHub v.2.0.0</h1>
           <p>
             NTPLC
           </p>
